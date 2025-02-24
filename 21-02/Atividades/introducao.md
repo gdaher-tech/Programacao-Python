@@ -37,3 +37,7 @@ Manipule a string para fazer substituições suando cifras de césar como nos ex
         - Para fazer qualquer coisa (deslocamento 5) → Ufwd gdgjwdj wxguxhu frlvd
 
   Código > https://github.com/gdaher-tech/Programacao-Python/blob/main/21-02/Atividades/desafio.py
+
+
+### Narrações dos códigos 
+https://github.com/gdaher-tech/Programacao-Python/blob/main/21-02/Atividades/narracao.md
